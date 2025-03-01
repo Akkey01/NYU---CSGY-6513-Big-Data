@@ -1,0 +1,380 @@
+[
+  {
+    "id": "1",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "All Saints Church Hall",
+      "ADDRESS1": "Godfrey Road",
+      "ADDRESS2": "Skircoat Green",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX3 0SD",
+      "PHONE": "01422 360902",
+      "UPRN": "010010184753",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.862486,
+        53.703041
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "The British Muslim Association",
+      "ADDRESS1": "Victoria House",
+      "ADDRESS2": "86 Hopwood Lane",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX1 4EJ",
+      "PHONE": "01422 362276",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.8819,
+        53.720709
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Calderdale Multicultural Activity Centre (CMAC)",
+      "ADDRESS1": "Akeds Road",
+      "ADDRESS2": "",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX1 2TR",
+      "PHONE": "",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.869993,
+        53.720841
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Cartwheel Youth and Community Centre",
+      "ADDRESS1": "Temperance Buildings",
+      "ADDRESS2": "Huddersfield Road",
+      "TOWN": "Elland",
+      "POSTCODE": "HX5 9DW",
+      "PHONE": "01422 374533",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.835286,
+        53.685798
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Cornholme and Portsmouth Old Library",
+      "ADDRESS1": "1 Parkside Road",
+      "ADDRESS2": "Cornholme",
+      "TOWN": "Todmorden",
+      "POSTCODE": "OL14 8QA",
+      "PHONE": "07989 352406",
+      "UPRN": "010006750328",
+      "OTHER_INFORMATION": "Website: https://oldlibrarycornholme.org.uk/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.141931,
+        53.733198
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Dodnaze Community Centre",
+      "ADDRESS1": "54 Hirst Grove",
+      "ADDRESS2": "",
+      "TOWN": "Hebden Bridge",
+      "POSTCODE": "HX7  8DN",
+      "PHONE": "01422 843216",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.003923,
+        53.742468
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Ground Floor Project",
+      "ADDRESS1": "Salem Community Resources Centre",
+      "ADDRESS2": "Central Street",
+      "TOWN": "Hebden Bridge",
+      "POSTCODE": "HX7  6HB",
+      "PHONE": "01422 844991",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": "Email: admin@groundfloor.org.uk, Facebook: https://www.facebook.com/GroundFloorProjectSalemCom"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.016596,
+        53.740953
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Luddendenfoot Civic Centre",
+      "ADDRESS1": "Station Road",
+      "ADDRESS2": "Luddendenfoot",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX2 6AD",
+      "PHONE": "07766 909681",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": "Facebook: https://www.facebook.com/LudFoot/, X : https://x.com/LudFoot"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.945616,
+        53.721755
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Mytholmroyd Community Centre",
+      "ADDRESS1": "Caldene Avenue",
+      "ADDRESS2": "Mytholmroyd",
+      "TOWN": "Hebden Bridge",
+      "POSTCODE": "HX7 5AF",
+      "PHONE": "01422 883023",
+      "UPRN": "010010178785",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.984731,
+        53.72996
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Queens Road Neighbourhood Centre",
+      "ADDRESS1": "Queen's Road",
+      "ADDRESS2": "",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX1 4NE",
+      "PHONE": "01422 369403",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.882409,
+        53.722983
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Ripponden Community Centre",
+      "ADDRESS1": "Old Bank",
+      "ADDRESS2": "Ripponden",
+      "TOWN": "Sowerby Bridge",
+      "POSTCODE": "HX6 4DG",
+      "PHONE": "01422 822777",
+      "UPRN": "010010182232",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.938869,
+        53.674273
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Siddal Sports and Community Club",
+      "ADDRESS1": "New Lane",
+      "ADDRESS2": "Siddal",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX3 9AL",
+      "PHONE": "01422 367376",
+      "UPRN": "1.00051E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.85072,
+        53.71014
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Southowram Community Centre",
+      "ADDRESS1": "Law Lane",
+      "ADDRESS2": "Southowram",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX3 9QL",
+      "PHONE": "07709 781983",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.830335,
+        53.710734
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Sowerby Bridge Youth and Community Centre",
+      "ADDRESS1": "Foundry Street",
+      "ADDRESS2": "",
+      "TOWN": "Sowerby Bridge",
+      "POSTCODE": "HX6 3AS",
+      "PHONE": "01422 839526",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.914462,
+        53.7066
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "St Augustine's Family Centre",
+      "ADDRESS1": "Hanson Lane",
+      "ADDRESS2": "",
+      "TOWN": "Halifax",
+      "POSTCODE": "HX1 5PG",
+      "PHONE": "01422 352492",
+      "UPRN": "010090365636",
+      "OTHER_INFORMATION": "Website: https://www.staugustinescentrehalifax.org.uk/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.877428,
+        53.725559
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "St Peter's Community Centre",
+      "ADDRESS1": "St Peters Avenue",
+      "ADDRESS2": "",
+      "TOWN": "Sowerby Bridge",
+      "POSTCODE": "HX6 1HB",
+      "PHONE": "01422 834344",
+      "UPRN": "010033879153",
+      "OTHER_INFORMATION": "Website: https://st-peters.ryburnbenefice.org/community/community-centres/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.936549,
+        53.704762
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "Wadsworth Community Centre",
+      "ADDRESS1": "Billy Lane",
+      "ADDRESS2": "Old Town",
+      "TOWN": "Hebden Bridge",
+      "POSTCODE": "HX7 8RY",
+      "PHONE": "07944246083",
+      "UPRN": "1.00052E+11",
+      "OTHER_INFORMATION": "Website: https://www.wadsworthcommunity.co.uk/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.998055,
+        53.75063
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "type": "Feature",
+    "properties": {
+      "COMMUNITY_CENTRE": "The Space Community Hub",
+      "ADDRESS1": "Burnsall Road",
+      "ADDRESS2": "Rastrick",
+      "TOWN": "Brighouse",
+      "POSTCODE": "HD6 3JT",
+      "PHONE": "01422 556924",
+      "UPRN": "010006747287",
+      "OTHER_INFORMATION": "Email: mail@thespaceatfieldlane.org.uk, Website: https://www.thespaceatfieldlane.org.uk/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.801093,
+        53.689593
+      ]
+    }
+  }
+]
